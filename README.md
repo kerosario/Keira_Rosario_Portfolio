@@ -7,7 +7,7 @@ With skills in organizing data, graphing and interpreting data, coding, and virt
 
 My complex skill set, commitment to organization, and passion for foreign affairs makes me as a valuable asset.  In my spare time, I like to play ice hockey and read. 
 
-You can find me on [LinkedIn](![image](https://github.com/user-attachments/assets/2566c491-3cf0-407a-9a3b-17faa8387342))
+You can find me on LinkedIn!
 
 
 ### Education 
