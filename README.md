@@ -1,6 +1,6 @@
 # Keira Rosario
 email: kerosario@loyola.edu
-### About Me 
+### About Me: 
 Hello! I am an experienced Global Studies student and aspiring foreign affairs council professional with over 3 years of proven expertise in foreign affairs and conflict, justice, and human rights. 
 
 With skills in organizing data, graphing and interpreting data, coding, and virtual presentations, I am able to execute sorting data efficiently, and achieve easily accessible and readable data. I am adept at using Excel, SPSS, and Python. 
@@ -10,13 +10,13 @@ My complex skill set, commitment to organization, and passion for foreign affair
 You can find me on LinkedIn:
 
 
-### Education 
+### Education: 
 BA Global Studies and Political Science
 ***
-### Projects
+### Projects:
 
-#### Budget Tracker
-##### This is a budget tracker that tells whether or not savings needs to increase or decrease for the month
+#### Budget Tracker:
+This is a budget tracker that tells whether or not savings needs to increase or decrease for the month
  - [insert project 1 screenshot here]
 
 I created my budget tracker to organize my biweekly income with the goal of saving an optimal amount of money each check. Having a large savings is important for my upcoming trip abroad to Copenhagen. This was important for me to sort out so I’m in an ideal financial situation for the four months I’m unable to work. 
@@ -31,8 +31,8 @@ I went into this project hoping to create a budget I can follow to maximize my s
 ![image](https://github.com/user-attachments/assets/634df3e0-f225-4f90-a612-7f0f19e4eb92)
 
 ***
-#### Personality Quiz
-##### This quiz was created on Python and involves a series of ten questions which tell you what type of flower your personality best matches
+#### Personality Quiz:
+This quiz was created on Python and involves a series of ten questions which tell you what type of flower your personality best matches
  - [insert project 2 screenshot here]
  I came up with the personality quiz project to create a series of questions that would answer which type of flower you are. Although this is not specifically a problem that needs to be solved, it can be altered to gather data for other purposes. 
 
@@ -46,8 +46,8 @@ My initial goal was to create a survey of questions that answered which type of 
 ![image](https://github.com/user-attachments/assets/589758ad-5f82-44db-a2d0-63a62f844f83)
 
 ***
-#### Cricket Chirp Predictor 
-##### This data set shows what factor affects the amount crickets chrip and was created using SPSS
+#### Cricket Chirp Predictor: 
+This data set shows what factor affects the amount crickets chrip and was created using SPSS
  - [insert project 3 screenshot here]
 This project involved organizing data surrounding the relationship between cricket chirps per 15 seconds with the temperature and time of day. This showed the relationship was stronger between the chirping with the temperature which can allow us to figure out when crickets are the most active.  
 
