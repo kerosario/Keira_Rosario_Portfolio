@@ -2,4 +2,4 @@ title: Keira_Rosario
 #logo: /assets/img/headshot_circle.png
 #description: text below image
 #show_downloads: true
-theme: jekyll-theme-minima
+remote_theme: pages-themes/architect@v0.2.0
