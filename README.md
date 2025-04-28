@@ -17,7 +17,8 @@ BA Global Studies and Political Science
 
 #### Budget Tracker
 This is a budget tracker that tells whether or not savings needs to increase or decrease for the month
- - [insert project 1 screenshot here]
+
+![Budget Tracker Image](/images/Budget_Worksheet.png)
 
 I created my budget tracker to organize my biweekly income with the goal of saving an optimal amount of money each check. Having a large savings is important for my upcoming trip abroad to Copenhagen. This was important for me to sort out so I’m in an ideal financial situation for the four months I’m unable to work. 
 
@@ -32,7 +33,9 @@ I went into this project hoping to create a budget I can follow to maximize my s
 ***
 #### Personality Quiz
 This quiz was created on Python and involves a series of ten questions which tell you what type of flower your personality best matches
- - [insert project 2 screenshot here]
+ 
+ ![Personality Quiz Image](/images/Personality_quiz_ss.png)
+
  I came up with the personality quiz project to create a series of questions that would answer which type of flower you are. Although this is not specifically a problem that needs to be solved, it can be altered to gather data for other purposes. 
 
 In this project, I used python and numerous codes to complete various functions. Outside of the program, I used problem solving and collaboration when I was unsuccessful with my coding. 
@@ -47,7 +50,11 @@ My initial goal was to create a survey of questions that answered which type of 
 ***
 #### Cricket Chirp Predictor 
 This data set shows what factor affects the amount crickets chrip and was created using SPSS
- - [insert project 3 screenshot here]
+
+![Cricket Chrirp Scatter Plot with Equation](/images/scatter_plot_equation.png)
+![Cricket Chirp Pearson Correlation](/images/pearson_correlation.png)
+![Cricket Chirp 2 Tailed](/images/2_tailed_sig.png)
+
 This project involved organizing data surrounding the relationship between cricket chirps per 15 seconds with the temperature and time of day. This showed the relationship was stronger between the chirping with the temperature which can allow us to figure out when crickets are the most active.  
 
 In this project I used SPSS and numerous functions, graphing, and data analyzing. 
