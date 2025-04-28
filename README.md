@@ -1,5 +1,8 @@
 # Keira Rosario
 email: kerosario@loyola.edu
+
+![Banner Image](images/project_image_2.png)
+
 ### About Me: 
 Hello! I am an experienced Global Studies student and aspiring foreign affairs council professional with over 3 years of proven expertise in foreign affairs and conflict, justice, and human rights. 
 
