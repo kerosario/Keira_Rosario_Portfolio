@@ -7,7 +7,7 @@ With skills in organizing data, graphing and interpreting data, coding, and virt
 
 My complex skill set, commitment to organization, and passion for foreign affairs makes me as a valuable asset.  In my spare time, I like to play ice hockey and read. 
 
-You can find me on LinkedIn
+You can find me on [LinkedIn](www.linkedin.com/in/keira-rosario-5489612b7)
 
 
 ### Education
@@ -27,8 +27,7 @@ During this project, I faced the issue of perfecting my formulas because Excel i
 
 In this project, I collaborated with Judy and Chase. We shared what formatting worked and didn’t work as well as checking each other’s work for errors we may have missed while reviewing ourselves.  
 
-I went into this project hoping to create a budget I can follow to maximize my savings without preventing me from also enjoying my money which I was able to achieve. If I could take this project further, I would add an additional section to organize my savings for varies reasons. 
-![image](https://github.com/user-attachments/assets/634df3e0-f225-4f90-a612-7f0f19e4eb92)
+I went into this project hoping to create a budget I can follow to maximize my savings without preventing me from also enjoying my money which I was able to achieve. If I could take this project further, I would add an additional section to organize my savings for various reasons. 
 
 ***
 #### Personality Quiz
@@ -43,7 +42,7 @@ I faced the issue of having small errors in my code that prevented it to run com
 I collaborated with Chase, Judy, and Cortez through checking each other’s work and sharing resources such as YouTube videos to help out along the way. 
 
 My initial goal was to create a survey of questions that answered which type of flower one’s personality matched the most. I was able to achieve this but in the future I would likely use this to conduct surveys on other topics. 
-![image](https://github.com/user-attachments/assets/589758ad-5f82-44db-a2d0-63a62f844f83)
+
 
 ***
 #### Cricket Chirp Predictor 
@@ -58,4 +57,3 @@ In this project, I struggled to find where the equation the graph was showing wa
 I did not collaborate with anyone on this project, but I did use online sources that helped explain how to use SPSS.   
 
 I set out to find which relation was stronger with cricket chirps and found that temperature had the greatest relation. If I took this project further, I would use multiple sets of data to compare to see if the relation continues in other recordings. 
-![image](https://github.com/user-attachments/assets/1a483838-b029-4de5-a1f1-270bb6a98952)
