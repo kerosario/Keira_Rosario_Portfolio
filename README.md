@@ -7,7 +7,9 @@ With skills in organizing data, graphing and interpreting data, coding, and virt
 
 My complex skill set, commitment to organization, and passion for foreign affairs makes me as a valuable asset.  In my spare time, I like to play ice hockey and read. 
 
-You can find me on [LinkedIn](www.linkedin.com/in/keira-rosario-5489612b7)
+You can find me on [LinkedIn](www.linkedin.com/in/keira-rosario)
+
+![Profile Picture](/images/headshot_project.png)
 
 
 ### Education
