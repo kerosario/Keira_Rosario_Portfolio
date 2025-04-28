@@ -2,4 +2,4 @@ title: Keira_Rosario
 logo: images/project_image_1.jpg
 description: Keira Rosario
 show_downloads: true
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: jekyll-theme-minimal
